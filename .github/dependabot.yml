@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"             # если requirements.txt в корне
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
