@@ -5,4 +5,4 @@ scikit-learn==1.5.0
 scipy==0.19.1
 seaborn>=0.7.1
 autograd>=1.1.7
-gym==0.21.0
+gym==0.26.2
